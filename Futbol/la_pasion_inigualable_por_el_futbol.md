@@ -1,7 +1,7 @@
 #  La Pasión Inigualable del Fútbol
 El fútbol, más que un simple deporte, es un fenómeno cultural global que despierta pasiones intensas y une a personas de todos los rincones del planeta. Su sencillez aparente esconde una complejidad táctica y emocional que lo convierte en un espectáculo fascinante. Desde los barrios humildes hasta los estadios más imponentes, el fútbol teje historias de superación, rivalidad y gloria que perduran en la memoria colectiva.
 
-![Pasion por el futbol](./Pasion futbol.jpg)
+![Pasion por el futbol](./Pasionfutbol.jpg)
 
 ##  La Evolución Táctica del Juego
 A lo largo de su historia, el fútbol ha experimentado una constante evolución en sus estrategias y formaciones. Desde el clásico 4-4-2 hasta las propuestas más innovadoras con carrileros y falsos nueves, los directores técnicos han buscado incansablemente la fórmula para alcanzar la victoria. Esta búsqueda incesante ha enriquecido el juego, ofreciendo una diversidad de estilos que mantienen a los aficionados al borde del asiento.
