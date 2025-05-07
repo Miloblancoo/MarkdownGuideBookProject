@@ -59,7 +59,7 @@ Argentina vivió su momento de gloria en 2004, cuando la Selección Nacional gan
 - Vencieron a Italia en la final
 - Dejaron un legado que inspiró a nuevas generaciones
 
-![generacion](generación.jpg)
+![generacion](generacion.jpg)
 
 ---
 
