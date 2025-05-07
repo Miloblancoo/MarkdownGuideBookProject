@@ -32,7 +32,7 @@ A lo largo de la historia del fútbol, han surgido figuraslegendarias que han de
 - 4.  Cristiano Ronaldo
 - 5.  Johan Cruyff
 
-![Cruyff](./Cruyff.jpg)
+![Cruyff](./cruyff.jpg)
 ![Messi](./Messi.jpg)
 
 ## Fuentes
