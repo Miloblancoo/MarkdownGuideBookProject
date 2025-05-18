@@ -2,15 +2,15 @@
 
 # El mejor juego que existe
 
-![Tenis](fotos/tenis_fotos/Depositphotos_156620498_xl-2015.jpg)
+![Tenis](../../fotos/tenis_fotos/Depositphotos_156620498_xl-2015.jpg)
 
-![Tenis](fotos/Tenis.jpg)
+![Tenis](../../fotos/tenis_fotos/Tenis.jpg)
 
 # El mas emocionante
 
-![Tenis](fotos/GettyImages-1171084311.jpg)
+![Tenis](../../fotos/tenis_fotos/GettyImages-1171084311.jpg)
 
-![Tenis](fotos/wallpapersden.com_rafael-nadal-tennis-tennis-player_3000x2000.jpg)
+![Tenis](../../fotos/tenis_fotos/wallpapersden.com_rafael-nadal-tennis-tennis-player_3000x2000.jpg)
 
 # El mas emocionante
 
