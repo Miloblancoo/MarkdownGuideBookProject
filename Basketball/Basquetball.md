@@ -10,7 +10,7 @@ El básquetbol es un deporte dinámico, estratégico y apasionante. Surgió en 1
 - [Canal de YouTube de la NBA](https://www.youtube.com/user/NBA)
 - [Página de la CABB (Argentina)](https://www.argentina.basketball/)
 
-![Creador de la NBA](./Dr.James_Naismith.jpg)
+![Creador de la NBA](Basketball/Dr._James_Naismith.jpg)
 
 
 ---
