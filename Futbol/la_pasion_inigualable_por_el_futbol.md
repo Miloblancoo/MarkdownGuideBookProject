@@ -1,7 +1,7 @@
 #  La Pasión Inigualable del Fútbol
 El fútbol, más que un simple deporte, es un fenómeno cultural global que despierta pasiones intensas y une a personas de todos los rincones del planeta. Su sencillez aparente esconde una complejidad táctica y emocional que lo convierte en un espectáculo fascinante. Desde los barrios humildes hasta los estadios más imponentes, el fútbol teje historias de superación, rivalidad y gloria que perduran en la memoria colectiva.
 
-![Pasion por el futbol](./Pasionfutbol.jpg)
+![Pasion por el futbol](../fotos/futbol_fotos/Pasionfutbol.jpg)
 
 ##  La Evolución Táctica del Juego
 A lo largo de su historia, el fútbol ha experimentado una constante evolución en sus estrategias y formaciones. Desde el clásico 4-4-2 hasta las propuestas más innovadoras con carrileros y falsos nueves, los directores técnicos han buscado incansablemente la fórmula para alcanzar la victoria. Esta búsqueda incesante ha enriquecido el juego, ofreciendo una diversidad de estilos que mantienen a los aficionados al borde del asiento.
@@ -17,7 +17,7 @@ A lo largo de su historia, el fútbol ha experimentado una constante evolución 
 	-   Juego de posesión elaborado
 	-   Transiciones rápidas ataque-defensa
 
-![Tacticas](./Tacticas.jpg)
+![Tacticas](../fotos/futbol_fotos/Tacticas.jpg)
 
 ## El Impacto Social y Económico del Fútbol
 El fútbol trasciende las fronteras del campo de juego para convertirse en un motor de desarrollo social y económico. Los clubes generan empleo, impulsan el turismo y fomentan la inversión en infraestructura. Además, el deporte rey tiene el poder de inspirar a jóvenes, promover valores como el trabajo en equipo y la disciplina, y brindar momentos de alegría y esperanza a comunidades enteras.
@@ -32,8 +32,8 @@ A lo largo de la historia del fútbol, han surgido figuraslegendarias que han de
 - 4.  Cristiano Ronaldo
 - 5.  Johan Cruyff
 
-![Cruyff](./cruyff.jpg)
-![Messi](./Messi.jpg)
+![Cruyff](../fotos/futbol_fotos/cruyff.jpg)
+![Messi](../fotos/futbol_fotos/Messi.jpg)
 
 ## Fuentes
 -   **FIFA:** https://www.fifa.com/
