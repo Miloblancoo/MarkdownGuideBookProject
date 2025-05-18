@@ -2,7 +2,7 @@
 
 # El mejor juego que existe
 
-![Tenis](fotos/Depositphotos_156620498_xl-2015.jpg)
+![Tenis](fotos/tenis_fotos/Depositphotos_156620498_xl-2015.jpg)
 
 ![Tenis](fotos/Tenis.jpg)
 
