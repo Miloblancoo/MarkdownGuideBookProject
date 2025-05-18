@@ -33,7 +33,7 @@ El básquet se juega con dos equipos de 5 jugadores en cancha. Gana el que más 
 4. Pasos
 5. Zona
 
-![reglas](./reglas.jpg)
+![reglas](../fotos/basketball_fotos/reglas.jpg)
 
 
 ---
@@ -48,7 +48,7 @@ Cada jugador cumple una función táctica específica. Estas son las cinco posic
 4. Ala-Pívot (Power Forward)
 5. Pívot (Center)
 
-![posiciones](./posiciones.png)
+![posiciones](../fotos/basketball_fotos/posiciones.png)
 ---
 
 #  La Generación Dorada
@@ -59,7 +59,7 @@ Argentina vivió su momento de gloria en 2004, cuando la Selección Nacional gan
 - Vencieron a Italia en la final
 - Dejaron un legado que inspiró a nuevas generaciones
 
-![generacion](./generacion.jpg)
+![generacion](../fotos/basketball_fotos/generacion.jpg)
 
 ---
 
